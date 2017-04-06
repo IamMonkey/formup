@@ -11,7 +11,6 @@
                     xhr.setRequestHeader(name, value)
                 })
             }
-            xhr.setRequestHeader()
             
             if(xhr.upload&&data.onprogress){
                 xhr.upload.onprogress = function(evt) {
