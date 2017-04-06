@@ -1,0 +1,26 @@
+{
+  "name": "formup",
+  "version": "0.0.1",
+  "description": "A upload tool.",
+  "main": "formup.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZefanQiu/formup.git"
+  },
+  "keywords": [
+    "upload",
+    "FormData"
+  ],
+  "author": "QIU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZefanQiu/formup/issues"
+  },
+  "homepage": "https://github.com/ZefanQiu/formup#readme"
+}
