@@ -1,5 +1,5 @@
 {
-  "name": "formup",
+  "name": "tools-formup",
   "version": "0.0.1",
   "description": "A upload tool.",
   "main": "formup.js",
@@ -17,7 +17,7 @@
     "upload",
     "FormData"
   ],
-  "author": "QIU",
+  "author": "zefanqiu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ZefanQiu/formup/issues"
