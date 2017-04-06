@@ -1,6 +1,6 @@
 {
   "name": "tools-formup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A upload tool.",
   "main": "formup.js",
   "directories": {
