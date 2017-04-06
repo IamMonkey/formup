@@ -20,6 +20,7 @@
             xhr.send(data.body);
         })
     }
+    
     export default _this.formup;
     module.exports = _this.formup;
 })(typeof _this !== 'undefined' ? _this : this);
